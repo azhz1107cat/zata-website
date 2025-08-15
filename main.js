@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import App from './App.vue'  // 根组件
+import App from './src/App.vue'  // 根组件
 import router from './router' // 路由（如果使用）
 
 Vue.config.productionTip = false

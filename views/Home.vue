@@ -8,7 +8,7 @@
 
 <script>
 // 引入组件
-import DownloadCard from '../components/DownloadCard.vue'
+import DownloadCard from '../src/components/DownloadCard.vue'
 
 export default {
   components: {
