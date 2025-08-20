@@ -25,7 +25,7 @@ export default {
       newsList: [
         /*{
           is_newest: true,
-          new_function: ["修复了已知bug", "添加了zata序列号相关功能", "增加了math, xj380库"],
+          new_function: ["修复了已知bug", "添加了zata序列化相关功能", "增加了math, xj380库"],
           version: "v0.2",
           download_link: "#"
         },*/
@@ -33,7 +33,7 @@ export default {
           is_newest: true,
           new_function: ["支持基础面向对象", "支持基础函数与变量操作", "适配Windows和Linux系统", "支持使用c/c++函数", "简单的Editor"],
           version: "v0.1",
-          download_link: "#"
+          download_link: "https://github.com/azhz1107cat/zata/releases/download/untagged-b975f7456e59601a4804/zata-setup.exe"
         }
       ]
     }
