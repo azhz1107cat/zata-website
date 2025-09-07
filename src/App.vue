@@ -33,7 +33,7 @@ export default {
           is_newest: true,
           new_function: ["支持基础面向对象(debug...)", "支持基础函数与变量操作", "适配Windows和Linux系统", "支持使用c/c++函数", "简单的Editor"],
           version: "v0.1",
-          download_link: "https://github.com/azhz1107cat/zata/releases/tag/v0.1/zata-setup.exe"
+          download_link: "https://release-assets.githubusercontent.com/github-production-release-asset/1010587035/7ff6532c-d16d-4414-8f3f-0813cd5048d7?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-09-07T10%3A00%3A43Z&rscd=attachment%3B+filename%3Dzata-setup.exe&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-09-07T09%3A00%3A39Z&ske=2025-09-07T10%3A00%3A43Z&sks=b&skv=2018-11-09&sig=wY9q1TOr20g10%2Buk%2BNiPePibP3a402wVugRenMiUIdI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc1NzIzNjQxMCwibmJmIjoxNzU3MjM2MTEwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.xrgmwPGu8xqaSxfe0yzptWa-ZwBEDYMzPoMWxzrtSN8&response-content-disposition=attachment%3B%20filename%3Dzata-setup.exe&response-content-type=application%2Foctet-stream"
         }
       ]
     }
