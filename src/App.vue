@@ -31,9 +31,9 @@ export default {
         },*/
         {
           is_newest: true,
-          new_function: ["支持基础面向对象", "支持基础函数与变量操作", "适配Windows和Linux系统", "支持使用c/c++函数", "简单的Editor"],
+          new_function: ["支持基础面向对象(debug...)", "支持基础函数与变量操作", "适配Windows和Linux系统", "支持使用c/c++函数", "简单的Editor"],
           version: "v0.1",
-          download_link: "https://github.com/azhz1107cat/zata/releases/download/untagged-b975f7456e59601a4804/zata-setup.exe"
+          download_link: "https://github.com/azhz1107cat/zata/releases/tag/v0.1/zata-setup.exe"
         }
       ]
     }
